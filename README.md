@@ -23,13 +23,13 @@ Here are some ideas to get you started:
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;You+Know+Who+Is+Handsome;Mas+Bro+Official;Nice+To+Meet+You+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;You+Know+Who+Is+Handsome;Dwi+Yantti;Nice+To+Meet+You+...&center=true"></a>
 
 ![20200808_160757](https://raw.githubusercontent.com/James404-cyber/James404-cyber/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=MasBroOfficial&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
+![github stats](https://github-readme-stats.vercel.app/api?username=Dwi-Yantti&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MasBroOfficial&layout=compact&theme=chartreuse-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Dwi-Yantti&layout=compact&theme=chartreuse-dark" />
 
 <p align="center"> 
 
@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=blue)
 >
 ## MY SOCIAL MEDIA
-[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/MasBroOfficial) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/)
-[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285765280785?text=Asalamualaikum+Mas+Bro+ganteng)
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Dwi-Yantti) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/)
+[![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/6285764280785?text=Asalamualaikum+Dwi+Bro+Yantti)
 ## KASIH BINTANG MASEH🌟🌟🌟🌟🌟🌟🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Selamat+Bersenang-senang....!+)
 
