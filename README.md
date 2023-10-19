@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3><b><i>🏆 Github Statistics :</i></b></h3> <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a> </p> <p align="center"> 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" /> </p>
 
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Mas Bro  Official</h1>
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Dwi Yantti</h1>
 <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrackerSilent67&theme=vue)
