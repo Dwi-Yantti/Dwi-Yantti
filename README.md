@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 -->
 <h3><b><i>🏆 Github Statistics :</i></b></h3> <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a> </p> <p align="center"> 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" /> </p>
 
-## 🚶 subcribe my channel yt (Mas Bro Official) 
-[![Youtube](https://img.shields.io/badge/Youtube-FF0014?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/channel/UCzJLAZneHzGbQoV0tHdr3fg)
-
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Mas Bro  Official</h1>
 <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
 
@@ -50,7 +47,7 @@ Here are some ideas to get you started:
 ## ★ Github data ★
 >
 > *Number of visitors*
-* **Visitor Github @MasBroOfficial**
+* **Visitor Github @Dwi-Yantti**
 ![DUMAI-991](https://komarev.com/ghpvc/?username=Dumai-991&color=blue)
 * **Visitor Trending @Atika_Claudiya**
 ![DUMAI-200](https://komarev.com/ghpvc/?username=Dumai-200&color=blue)
