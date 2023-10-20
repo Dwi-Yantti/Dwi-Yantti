@@ -3,8 +3,6 @@
 <!--
 **Dwi-Yantti/Dwi-Yantti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=YOU+RESPECT+ME+I+RESPECT+YOU+😊;YOU+DISPECT+ME+I+FUCK+YOU+🙂)](https://git.io/typing-svg)
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -17,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3><b><i>🏆 Github Statistics :</i></b></h3> <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a> </p> <p align="center"> 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" /> </p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=YOU+RESPECT+ME+I+RESPECT+YOU+😊;YOU+DISPECT+ME+I+FUCK+YOU+🙂)](https://git.io/typing-svg)
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Dwi Yantti</h1>
 <img src="https://raw.githubusercontent.com/msoftware/msoftware/output/github-contribution-grid-snake.svg" />
