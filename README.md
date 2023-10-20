@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 <h3><b><i>🏆 Github Statistics :</i></b></h3> <a href="https://github.com/James404-cyber"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=James404-cyber&theme=monokai"></a> </p> <p align="center"> 𝚅𝙸𝚂𝙸𝚃𝙾𝚁𝚂 𝙲𝙾𝚄𝙽𝚃 <img src="https://profile-counter.glitch.me/James404-cyber/count.svg" /> </p>
 
+<img src="https://github.com/MRVIVEK-CODER/Decompiler/blob/main/106824690-8dd73a00-66ad-11eb-89e2-53e13ac6f594.gif" alt="" border="0" />
+
+ 
+
+![Alt text](https://github.com/MRVIVEK-CODER/MRVIVEK-CODER/raw/main/md7Oqrf.gif)
+
+ 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Neuton&size=20&color=30FF40&background=000000¢er=true&vCenter=true&width=400&height=25&lines=YOU+RESPECT+ME+I+RESPECT+YOU+😊;YOU+DISPECT+ME+I+FUCK+YOU+🙂)](https://git.io/typing-svg)
 
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Dwi Yantti</h1>
